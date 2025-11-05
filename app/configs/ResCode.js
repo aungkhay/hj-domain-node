@@ -1,0 +1,9 @@
+module.exports = {
+    SUCCESS: 1000,
+    UNAUTHORIZED: 1001,
+    VALIDATE_FAIL: 1002,
+    SERVER_ERROR: 1003,
+    BAD_REQUEST: 1004,
+    NOT_FOUND: 1005,
+    DB_ERROR: 1006
+}
